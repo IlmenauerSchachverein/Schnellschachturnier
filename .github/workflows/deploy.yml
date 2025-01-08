@@ -46,7 +46,8 @@ jobs:
       - name: Prettier
         run: |
             npm install --save-dev --save-exact prettier
-            npx prettier --write public/**/*.html
+            npx prettier --debug-check public/**/*.html
+            echo "Prettier fertig."
 
       - name: Deploy files via SSH
         uses: appleboy/scp-action@v0.1.7
