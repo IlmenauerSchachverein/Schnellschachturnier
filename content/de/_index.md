@@ -35,43 +35,42 @@ type: docs
 ### Wichtige Informationen
 
 {{< cards >}}
-{{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
-{{< card link="startrangliste" title="Startrangliste" icon="user" >}}
-{{< card link="anmeldung" title="Anmeldung" icon="user" target="_blank">}}
+{{< card link="/2025/ausschreibung" title="Ausschreibung" icon="user" >}}
+{{< card link="/2025/startrangliste" title="Startrangliste" icon="user" >}}
+{{< card link="/2025/anmeldung" title="Anmeldung" icon="user" target="_blank">}}
 {{< card link="https://chess-results.com/tnr1056111.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
-{{< card link="tabellen" title="Download der Tabellen" icon="user" target="_blank" tag="pdf">}}
+{{< card link="/2025/tabellen" title="Download der Tabellen" icon="user" target="_blank" tag="pdf">}}
 {{< card link="https://lichess.org/broadcast/31-ilmenauer-schnellschachturnier-2025/round-1/rWhxmkA9" title="Livebretter (1-18)" icon="user" target="_blank" tag="Lichess">}}
 {{< /cards >}}
 
 ### Paarungen aller Runden
 
 {{< cards >}}
-{{< card link="runde/1" title="Paarungen Runde 1" icon="user" >}}
-{{< card link="runde/2" title="Paarungen Runde 2" icon="user" >}}
-{{< card link="runde/3" title="Paarungen Runde 3" icon="user" >}}
-{{< card link="runde/4" title="Paarungen Runde 4" icon="user" >}}
-{{< card link="runde/5" title="Paarungen Runde 5" icon="user" >}}
-{{< card link="runde/6" title="Paarungen Runde 6" icon="user" >}}
-{{< card link="runde/7" title="Paarungen Runde 7" icon="user" >}}
+{{< card link="/2025/runde/1" title="Paarungen Runde 1" icon="user" >}}
+{{< card link="/2025/runde/2" title="Paarungen Runde 2" icon="user" >}}
+{{< card link="/2025/runde/3" title="Paarungen Runde 3" icon="user" >}}
+{{< card link="/2025/runde/4" title="Paarungen Runde 4" icon="user" >}}
+{{< card link="/2025/runde/5" title="Paarungen Runde 5" icon="user" >}}
+{{< card link="/2025/runde/6" title="Paarungen Runde 6" icon="user" >}}
+{{< card link="/2025/runde/7" title="Paarungen Runde 7" icon="user" >}}
 {{< /cards >}}
 
 ### Rangliste aller Runden
 
 {{< cards >}}
-{{< card link="rangliste/1" title="Rangliste nach Runde 1" icon="user" >}}
-{{< card link="rangliste/2" title="Rangliste nach Runde 2" icon="user" >}}
-{{< card link="rangliste/3" title="Rangliste nach Runde 3" icon="user" >}}
-{{< card link="rangliste/4" title="Rangliste nach Runde 4" icon="user" >}}
-{{< card link="rangliste/5" title="Rangliste nach Runde 5" icon="user" >}}
-{{< card link="rangliste/6" title="Rangliste nach Runde 6" icon="user" >}}
-{{< card link="rangliste/7" title="Rangliste nach Runde 7" icon="user" >}}
+{{< card link="/2025/rangliste/1" title="Rangliste nach Runde 1" icon="user" >}}
+{{< card link="/2025/rangliste/2" title="Rangliste nach Runde 2" icon="user" >}}
+{{< card link="/2025/rangliste/3" title="Rangliste nach Runde 3" icon="user" >}}
+{{< card link="/2025/rangliste/4" title="Rangliste nach Runde 4" icon="user" >}}
+{{< card link="/2025/rangliste/5" title="Rangliste nach Runde 5" icon="user" >}}
+{{< card link="/2025/rangliste/6" title="Rangliste nach Runde 6" icon="user" >}}
+{{< card link="/2025/rangliste/7" title="Rangliste nach Runde 7" icon="user" >}}
 {{< /cards >}}
 
-### Sondertabellen
+### Auswertung
 
 {{< cards >}}
-{{< card link="spezial/dwz" title="DWZ Auswertung" icon="user" >}}
-{{< card link="spezial/elo" title="ELO Auswertung" icon="user" >}}
-{{< card link="spezial/fortschrittstabelle" title="Fortschrittstabelle" icon="user" >}}
+{{< card link="/2025/spezial/dwz" title="DWZ Auswertung" icon="user" >}}
+{{< card link="/2025/spezial/elo" title="ELO Auswertung" icon="user" >}}
 {{< /cards >}}
 
