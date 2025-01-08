@@ -4,12 +4,6 @@ toc: false
 type: docs
 ---
 
-
-{{< callout type="error" >}}
- Die Website ist noch in der Entwicklung
-{{< /callout >}}
-
-
 <style>
   @media (max-width: 600px) {
     .desktop-only {
@@ -17,7 +11,6 @@ type: docs
     }
   }
 </style>
-
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
@@ -27,10 +20,6 @@ type: docs
     <img src="/IlmenauerSV.png" alt="Ilmenauer Schachverein Logo" style="max-width: 200px;" class="desktop-only">
   </div>
 </div>
-
-
-
-
 
 ### Wichtige Informationen
 
@@ -74,4 +63,3 @@ type: docs
 {{< card link="/2025/spezial/dwz" title="DWZ Auswertung" icon="user" >}}
 {{< card link="/2025/spezial/elo" title="ELO Auswertung" icon="user" >}}
 {{< /cards >}}
-
