@@ -41,6 +41,7 @@ type: docs
 {{< card link="https://chess-results.com/tnr1056111.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< card link="/2025/tabellen" title="Download der Tabellen" icon="user" target="_blank" tag="pdf">}}
 {{< card link="https://lichess.org/broadcast/31-ilmenauer-schnellschachturnier-2025/round-1/rWhxmkA9" title="Livebretter (1-18)" icon="user" target="_blank" tag="Lichess">}}
+{{< card link="/2025/bilder" title="Bilder" icon="user" target="_blank" >}}
 {{< /cards >}}
 
 ### Paarungen aller Runden
