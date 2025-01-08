@@ -16,7 +16,11 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v4
-
+     
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20  
+      
       - name: Set up Python 3
         uses: actions/setup-python@v5
         with:
@@ -38,6 +42,11 @@ jobs:
           hugo mod get
           hugo mod tidy
           hugo
+          
+      - name: Prettier
+        run: 
+          npm install --save-dev --save-exact prettier
+          prettier --write public/**/*.html
 
       - name: Deploy files via SSH
         uses: appleboy/scp-action@v0.1.7
