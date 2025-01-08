@@ -15,7 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     // Honeypot-Schutz
     if (!empty($_POST['honeypot'])) {
-        die("<p style='color:red;'>Fehler: Spam erkannt.</p>");
+        die("<p style='color:red;'>Fehler: Spam erkannt.</p>");  
     }
 
     // Dateipfad zur CSV-Datei
