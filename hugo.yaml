@@ -1,10 +1,11 @@
 title: 31. Ilmenauer Schnellschachturnier 2025
-baseURL: "https://isst25.ilmenauer-schachverein.de/"
+baseURL: "https://isst.ilmenauer-schachverein.de/"
 
 # import hextra as module
 module:
   imports:
     - path: github.com/imfing/hextra
+    - path: github.com/gethinode/mod-flexsearch
 
 markup:
   # allow raw html
@@ -30,10 +31,10 @@ menu:
       pageRef: "anmeldung"
       weight: 1
     - name: Datenschutzerklärung
-      pageRef: datenschutz
+      pageRef: /datenschutz
       weight: 3
     - name: Impressum
-      pageRef: impressum
+      pageRef: /impressum
       weight: 3
     - name: Ilmenauer Schachverein ↗
       url: "https://ilmenauer-schachverein.de"
@@ -44,7 +45,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/IlmenauerSchachverein/IlmenauerOpen2024"
+      url: "https://github.com/IlmenauerSchachverein/Schnellschachturnier"
       params:
         icon: github
     - name: Instagram

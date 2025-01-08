@@ -4,12 +4,6 @@ toc: false
 type: docs
 ---
 
-
-{{< callout type="error" >}}
- Die Website ist noch in der Entwicklung
-{{< /callout >}}
-
-
 <style>
   @media (max-width: 600px) {
     .desktop-only {
