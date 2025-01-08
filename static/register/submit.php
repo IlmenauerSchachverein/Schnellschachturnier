@@ -12,8 +12,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = htmlspecialchars($_POST['email']);
     $rabatt = htmlspecialchars($_POST['rabatt']);
     $bestaetigung = 'Nein';
-    $agb = '?';
-    $blitzturnier = isset($_POST['blitzturnier']) ? 'Ja' : 'Nein'; // Neues Feld
 
     // Honeypot-Schutz
     if (!empty($_POST['honeypot'])) {
@@ -42,8 +40,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             $email,
             $rabatt,
             $bestaetigung,
-            $agb,
-            $blitzturnier // Blitzturnier hinzufügen
         ];
 
         if (($datei = fopen($dateipfad, 'a')) !== FALSE) {
