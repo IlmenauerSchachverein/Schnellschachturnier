@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 
     // Dateipfad zur CSV-Datei
-    $dateipfad = '/var/private/isv/open25.csv';
+    $dateipfad = '/var/private/isv/isst25.csv';
 
     // Geburtsdatum validieren
     if (!preg_match("/^\d{2}\.\d{2}\.\d{4}$/", $geburtsdatum) || !checkdate((int)explode('.', $geburtsdatum)[1], (int)explode('.', $geburtsdatum)[0], (int)explode('.', $geburtsdatum)[2])) {
