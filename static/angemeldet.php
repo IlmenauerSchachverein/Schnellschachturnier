@@ -86,17 +86,13 @@
         <th>E-Mail</th>
         <th>Rabattberechtigung</th>
         <th>Bestätigung</th>
-        <th>AGB</th>
-        <th>Blitzturnier</th>
         <th>ChessResults</th>
     </tr>';
 
     // Datei öffnen und Zeilen auslesen
     if (($handle = fopen($csvFile, 'r')) !== FALSE) {
-        $headerSkipped = false;
         while (($data = fgetcsv($handle, 1000, ',')) !== FALSE) {
-            // Überprüfen, ob die Zeile genügend Spalten enthält
-            if (count($data) < 12) {
+            if (count($data) < 10) {
                 echo '<p style="color: red;">Fehler: Eine Zeile in der CSV-Datei hat nicht genügend Spalten.</p>';
                 continue;
             }
@@ -118,8 +114,6 @@
             $email = htmlspecialchars($data[7]);
             $rabatt = htmlspecialchars($data[8]);
             $bestaetigung = htmlspecialchars($data[9]);
-            $agb = htmlspecialchars($data[10]);
-            $blitzturnier = htmlspecialchars($data[11]);
 
             // Zeile in die Tabelle ausgeben
             echo "<tr class='" . ($chessResultsMatch ? 'highlight' : '') . "'>
@@ -133,8 +127,6 @@
                 <td>{$email}</td>
                 <td>{$rabatt}</td>
                 <td>{$bestaetigung}</td>
-                <td>{$agb}</td>
-                <td>{$blitzturnier}</td>
                 <td>{$chessResultsMatch}</td>
             </tr>";
         }
@@ -146,7 +138,7 @@
     // Liste der Spieler auf ChessResults, die nicht in der CSV sind
     $csvNames = array_map(function ($data) {
         return trim($data[3]) . ', ' . trim($data[2]);
-    }, array_filter(array_map('str_getcsv', file($csvFile)), fn($line) => count($line) >= 12));
+    }, array_filter(array_map('str_getcsv', file($csvFile)), fn($line) => count($line) >= 10));
 
     $notInCsv = array_diff($webNames, $csvNames);
     echo '<h2>Auf ChessResults gemeldet, aber nicht in der CSV-Datei:</h2>';
