@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anmeldungen Open 2025</title>
+    <title>ISST 2025</title>
     <style>
         table {
             width: 90%;
