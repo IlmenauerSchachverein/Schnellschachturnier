@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ISST 2025</title>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HQKPWP7Q0"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4HQKPWP7Q0');
+    </script>
     <style>
         table {
             width: 90%;
