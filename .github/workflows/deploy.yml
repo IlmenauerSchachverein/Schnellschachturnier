@@ -67,7 +67,7 @@ jobs:
           password: ${{ secrets.SSH_PASSWORD }}
           script: |
             cd /var/www/isst; mv public/* .;  rm -rf public
-            cat /var/private/eskopp/mail_isst_25.php >> /var/www/open/register/submit.php
+            cat /var/private/eskopp/mail_isst_25.php >> /var/www/isst/register/submit.php
       
       - name: PHP Composer
         uses: appleboy/ssh-action@v1.2.0
