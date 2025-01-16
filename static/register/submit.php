@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         } else {
             echo "<p style='color:red;'>Fehler: CSV-Datei konnte nicht geöffnet werden.</p>";
         } 
-    }
+    } 
 }
 
 
