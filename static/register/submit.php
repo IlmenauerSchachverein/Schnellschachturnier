@@ -51,3 +51,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         } 
     }
 }
+
+
+// PHP MAILER
+// v1.0.0
+
