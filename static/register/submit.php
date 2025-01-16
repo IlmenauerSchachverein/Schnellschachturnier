@@ -48,6 +48,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             echo "<p style='color:green;'>Erfolg: Ihre Daten wurden gespeichert.</p>";
         } else {
             echo "<p style='color:red;'>Fehler: CSV-Datei konnte nicht geöffnet werden.</p>";
-        }
+        } 
     }
 }
