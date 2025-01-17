@@ -6,7 +6,7 @@
 ## Spiellokal
 
 **Rathaus Ilmenau**  
-Am Markt 7, 98693 Ilmenau
+Am Markt 7, 98693 Ilmenau 
 
 ## Auswertung
 
