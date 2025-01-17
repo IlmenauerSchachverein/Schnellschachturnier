@@ -12,8 +12,9 @@ Das Orgateam macht das Turnier Ehrenamtlich. Daher kann es durchaus 3 bis 4 Tage
 {{< /callout >}}
 
 
-| TlnNr | Teilnehmer         | Titel | ELO  | NWZ  | Attr. | Verein/Ort                | Land | Geburt | FideKenn. | PKZ      |
-| ----- | ------------------ | ----- | ---- | ---- | ----- | ------------------------- | ---- | ------ | --------- | -------- |
-| 1     | Eichenauer, Pascal |       | 2029 | 2062 | M     | SV Würzburg von 1865 e.V. | GER  | 1999   | 12991848  | 10276112 |
-| 2     | Handschuh, Franz   |       | 1788 | 1780 | M     | SV Stützerbach            | GER  | 1948   | 34602615  | 10073513 |
-| 3     | Eisenbach, Markus  |       | 1888 | 1505 | M     | Ilmenauer SV              | GER  | 1984   | 34663630  | 10043553 |
+| TlnNr | Teilnehmer         | Titel | ELO  | NWZ  | Attr. | Verein/Ort                      | Land | Geburt | FideKenn. | PKZ      |
+|-------|--------------------|-------|------|------|-------|---------------------------------|------|--------|-----------|----------|
+| 1     | Eichenauer, Pascal |       | 2029 | 2062 | M     | SV Würzburg von 1865 e.V.         | GER  | 1999   | 12991848  | 10276112 |
+| 2     | Handschuh, Franz   |       | 1788 | 1780 | M     | SV Stützerbach                  | GER  | 1948   | 34602615  | 10073513 |
+| 3     | Eisenbach, Markus  |       | 1888 | 1505 | M     | Ilmenauer SV                    | GER  | 1984   | 34663630  | 10043553 |
+| 4     | Winger, Frank      |       |      | 832  | M     | Ilmenauer SV                    | GER  | 1964   | 16233069  | 10651767 |
