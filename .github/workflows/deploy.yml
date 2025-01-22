@@ -16,6 +16,7 @@ jobs:
 
       - name: Checkout repository
         uses: actions/checkout@v4
+        # switch deploy
      
       - uses: actions/setup-node@v4
         with:
