@@ -50,3 +50,4 @@ jobs:
           git add go.mod go.sum
           git commit -m "Update Hugo modules and Go version [skip ci]" || echo "No changes to commit"
           git push
+ 
