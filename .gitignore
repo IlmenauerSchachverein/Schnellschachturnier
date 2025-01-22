@@ -8,3 +8,9 @@ resources/
 
 # Chess 
 *.ini
+*.pgn
+
+# ChessBase
+*.pgi
+*.cb*
+*.2cb*
