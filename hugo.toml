@@ -1,6 +1,6 @@
 title = "31. Ilmenauer Schnellschachturnier 2025"
 baseURL = "https://isst.ilmenauer-schachverein.de/"
-defaultContentLanguage = "de"
+defaultContentLanguage = "de" 
 
 [module]
   [[module.imports]]
