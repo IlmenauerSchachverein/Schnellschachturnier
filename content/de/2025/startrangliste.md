@@ -12,14 +12,14 @@ Dieses Jahr wird die DWZ (Deutsche Wertungszahl) als Turnierwertungszahl (TWZ) v
 Das Orgateam macht das Turnier Ehrenamtlich. Daher kann es durchaus 3 bis 4 Tage dauern bis ihr Name in der Liste erscheint. Haben sie bitte etwas Gedult. Sollte ihr Name nach einer Woche noch nicht erschienen sein, können sie uns gerne unter [info@ilmenauer-schachverein.de](mailto:info@ilmenauer-schachverein.de) eine E-Mail schreiben. Eine individuelle Antwort per E-Mail als Anmeldebestätigung gibt es aus zeitgründen nicht.
 {{< /callout >}}
 
-<startrangliste>
-1	Eichenauer,Pascal		2010	2028	M	Ilmenauer SV	GER	1999	12991848	10276112
-2	Handschuh,Franz		1788	1780	M	SV Stützerbach	GER	1948	34602615	10073513
-3	Rauch,Arwid		1779	1732	M	Ilmenauer SV	GER	2003	16215923	10283822
-4	Brauer,Celiene		1630	1520	W	SC Turm Erfurt	GER	2009	34663622	10724741
-5	Eisenbach,Markus,Dr.		1888	1505	M	Ilmenauer SV	GER	1984	34663630	10043553
-6	Brandt,Wolfgang		1747	1489	M	SV Gehren 1911	GER	1960	16202465	10257345
-7	Pantleon,Florian		1544	1264	M	SG Bettringen	GER	1999	533016836	10535931
-8	Schwarzer,Jonas		1503	1199	M	TSG Apolda	GER	2006	34686223	10829349
-9	Winger,Frank			832	M	Ilmenauer SV	GER	1964	16233069	10651767
-</startrangliste>
+| TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 1 | Eichenauer,Pascal |  | 2010 | 2028 | M | Ilmenauer SV | GER | 1999 | 12991848 | 10276112 |
+| 2 | Handschuh,Franz |  | 1788 | 1780 | M | SV Stützerbach | GER | 1948 | 34602615 | 10073513 |
+| 3 | Rauch,Arwid |  | 1779 | 1732 | M | Ilmenauer SV | GER | 2003 | 16215923 | 10283822 |
+| 4 | Brauer,Celiene |  | 1630 | 1520 | W | SC Turm Erfurt | GER | 2009 | 34663622 | 10724741 |
+| 5 | Eisenbach,Markus,Dr. |  | 1888 | 1505 | M | Ilmenauer SV | GER | 1984 | 34663630 | 10043553 |
+| 6 | Brandt,Wolfgang |  | 1747 | 1489 | M | SV Gehren 1911 | GER | 1960 | 16202465 | 10257345 |
+| 7 | Pantleon,Florian |  | 1544 | 1264 | M | SG Bettringen | GER | 1999 | 533016836 | 10535931 |
+| 8 | Schwarzer,Jonas |  | 1503 | 1199 | M | TSG Apolda | GER | 2006 | 34686223 | 10829349 |
+| 9 | Winger,Frank |  |  | 832 | M | Ilmenauer SV | GER | 1964 | 16233069 | 10651767 |
