@@ -5,7 +5,7 @@ stages:
 
 update:
   stage: update
-  image: archlinux:latest
+  image: archlinux:latest 
   before_script:
     - echo "Updating system and installing dependencies..."
     - pacman -Syu --noconfirm
