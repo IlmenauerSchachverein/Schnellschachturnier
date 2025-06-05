@@ -9,11 +9,6 @@ Dieses Jahr wird die DWZ (Deutsche Wertungszahl) als Turnierwertungszahl (TWZ) v
 {{< /callout >}}
 
 <startrangliste>
-31. Ilmenauer Schnellschachturnier 2025
-Ilmenauer Schachverein
-
-Teilnehmerliste: (Sortiert nach Spielernummer)
-TlnNr	Teilnehmer	Titel	ELO	NWZ	Attr.	Verein/Ort	Land	Geburt	FideKenn.	PKZ
 1	Eichenauer,Pascal		2048	2054	M	Ilmenauer SV	GER	1999	12991848	10276112
 2	Geißhirt,Marco		1968	1984	M	Ilmenauer SV	GER	1990	4610563	10059257
 3	Hellrung,Bernhard,Dr.		1923	1794	M	Schachclub Rochade Leinefelde	GER	1962	4692420	10079581
