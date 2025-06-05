@@ -62,9 +62,6 @@ defaultContentLanguage = "de"
     url = "https://chess-results.com/tnr1056111.aspx?lan=0"
     weight = 2
 
-[services.googleAnalytics]
-  ID = "G-4HQKPWP7Q0"
-
 [params]
   disableToc = true
 
