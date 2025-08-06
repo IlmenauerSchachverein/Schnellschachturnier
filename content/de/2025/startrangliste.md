@@ -14,26 +14,29 @@ Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das S
 {{< /callout >}}
 
 
-| TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 1 | Biastoch,Bennet | FM | 2311 | 2290 | M | SG Aufbau Elbe Magdeburg | GER | 2002 | 12939889 | 10279476 |
-| 2 | Jacobi,Robin |  | 2243 | 2223 | M | SV Empor Erfurt | GER | 1991 | 24646962 | 10093102 |
-| 3 | Demchenko,Yaroslav | CM | 2217 | 2159 | M | SC 1868 Bamberg | UKR | 2007 | 14186667 | 10794860 |
-| 4 | Eichenauer,Pascal |  | 2048 | 2092 | M | Ilmenauer SV | GER | 1999 | 12991848 | 10276112 |
-| 5 | Geißhirt,Marco |  | 1968 | 1990 | M | Ilmenauer SV | GER | 1990 | 4610563 | 10059257 |
-| 6 | Mehlhorn,Uwe |  | 1968 | 1939 | M | SG Blau-Weiß Stadtilm | GER | 1961 | 4619552 | 10139500 |
-| 7 | Handschuh,Franz |  | 1788 | 1775 | M | Schachverein Stützerbach | GER | 1948 | 34602615 | 10073513 |
-| 8 | Hellrung,Bernhard,Dr. |  | 1923 | 1775 | M | Schachclub Rochade Leinefelde | GER | 1962 | 4692420 | 10079581 |
-| 9 | Trice,Mark |  | 1873 | 1764 | M | Schachklub Schweinfurt 2000 e.V. | GER | 1960 | 12920037 | 10225460 |
-| 10 | Rauch,Arwid |  | 1779 | 1704 | M | Ilmenauer SV | GER | 2003 | 16215923 | 10283822 |
-| 11 | Jung,Timo |  |  | 1639 | M | Ilmenauer SV | GER | 2005 | 533029865 | 10845239 |
-| 12 | Richter,Frank |  |  | 1626 | M | Ilmenauer SV | GER | 1969 | 16279727 | 10175929 |
-| 13 | Volland,Ralf |  | 1795 | 1595 | M | SSV Vimaria 91 Weimar | GER | 1953 | 24640123 | 10230969 |
-| 14 | Eisenbach,Markus,Dr. |  | 1888 | 1530 | M | Ilmenauer SV | GER | 1984 | 34663630 | 10043553 |
-| 15 | Glaser,Bernhard |  | 1816 | 1498 | M | ESV Lok Sömmerda | GER | 1960 | 24638331 | 10061931 |
-| 16 | Huber,Andreas |  | 1737 | 1467 | M | SK Töging | GER | 1978 | 34639306 | 10090023 |
-| 17 | Brauer,Celiene |  | 1630 | 1462 | W | Schachclub Turm Erfurt | GER | 2009 | 34663622 | 10724741 |
-| 18 | Brandt,Wolfgang |  | 1747 | 1444 | M | TSV 1886 Geschwenda | GER | 1960 | 16202465 | 10257345 |
-| 19 | Pantleon,Florian |  | 1544 | 1226 | M | SG Bettringen | GER | 1999 | 533016836 | 10535931 |
-| 20 | Schwarzer,Jonas |  | 1486 | 1178 | M | TSG Apolda | GER | 2006 | 34686223 | 10829349 |
-| 21 | Winger,Frank | B |  | 830 | M | Ilmenauer SV | GER | 1964 | 16233069 | 10651767 |
+<startrangliste>
+1	Biastoch,Bennet	FM	2311	2290	M	SG Aufbau Elbe Magdeburg	GER	2002	12939889	10279476
+2	Jacobi,Robin		2243	2223	M	SV Empor Erfurt	GER	1991	24646962	10093102
+3	Philipp,Mathias	CM	2144	2170	M	SSV Vimaria 91 Weimar	GER	1999	12958883	10269201
+4	Demchenko,Yaroslav	CM	2217	2159	M	SC 1868 Bamberg	UKR	2007	14186667	10794860
+5	Eichenauer,Pascal		2048	2092	M	Ilmenauer SV	GER	1999	12991848	10276112
+6	Geißhirt,Marco		1968	1990	M	Ilmenauer SV	GER	1990	4610563	10059257
+7	Mehlhorn,Uwe		1968	1939	M	SG Blau-Weiß Stadtilm	GER	1961	4619552	10139500
+8	Handschuh,Franz		1788	1775	M	Schachverein Stützerbach	GER	1948	34602615	10073513
+9	Hellrung,Bernhard,Dr.		1923	1775	M	Schachclub Rochade Leinefelde	GER	1962	4692420	10079581
+10	Trice,Mark		1873	1764	M	Schachklub Schweinfurt 2000 e.V.	GER	1960	12920037	10225460
+11	Rauch,Arwid		1779	1704	M	Ilmenauer SV	GER	2003	16215923	10283822
+12	Jörges,Frank		1854	1677	M	SK Theaterstadt Meiningen	GER	1959	24669415	10095989
+13	Jung,Timo			1639	M	Ilmenauer SV	GER	2005	533029865	10845239
+14	Richter,Frank			1626	M	Ilmenauer SV	GER	1969	16279727	10175929
+15	Volland,Ralf		1795	1595	M	SSV Vimaria 91 Weimar	GER	1953	24640123	10230969
+16	Eisenbach,Markus,Dr.		1888	1530	M	Ilmenauer SV	GER	1984	34663630	10043553
+17	Glaser,Bernhard		1816	1498	M	ESV Lok Sömmerda	GER	1960	24638331	10061931
+18	Franke,Moritz		1610	1497	M	Erfurter Schachklub	GER	2013	34629475	10774247
+19	Huber,Andreas		1737	1467	M	SK Töging	GER	1978	34639306	10090023
+20	Brauer,Celiene		1630	1462	W	Schachclub Turm Erfurt	GER	2009	34663622	10724741
+21	Brandt,Wolfgang		1747	1444	M	TSV 1886 Geschwenda	GER	1960	16202465	10257345
+22	Pantleon,Florian		1544	1226	M	SG Bettringen	GER	1999	533016836	10535931
+23	Schwarzer,Jonas		1486	1178	M	TSG Apolda	GER	2006	34686223	10829349
+24	Winger,Frank	B		830	M	Ilmenauer SV	GER	1964	16233069	10651767
+</startrangliste>
