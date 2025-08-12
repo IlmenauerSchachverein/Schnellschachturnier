@@ -13,7 +13,7 @@ Dieses Jahr wird die DWZ (Deutsche Wertungszahl) als Turnierwertungszahl (TWZ) v
 Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das Startgeld bereits bezahlt.
 {{< /callout >}}
 
-<startranglste>
+<startrangliste>
 1	Biastoch,Bennet	FM	2311	2290	M	SG Aufbau Elbe Magdeburg	GER	2002	12939889	10279476
 2	Jacobi,Robin		2243	2223	M	SV Empor Erfurt	GER	1991	24646962	10093102
 3	Philipp,Mathias	CM	2144	2170	M	SSV Vimaria 91 Weimar	GER	1999	12958883	10269201
@@ -50,5 +50,4 @@ Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das S
 34	Schwarzer,Jonas		1486	1178	M	TSG Apolda	GER	2006	34686223	10829349
 35	Hadelich,Taron			1032	M	SSV Vimaria 91 Weimar	GER	2016		10839799
 36	Winger,Frank	B		830	M	Ilmenauer SV	GER	1964	16233069	10651767
-| TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+</startrangliste>
