@@ -50,4 +50,5 @@ Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das S
 34	Schwarzer,Jonas		1486	1178	M	TSG Apolda	GER	2006	34686223	10829349
 35	Hadelich,Taron			1032	M	SSV Vimaria 91 Weimar	GER	2016		10839799
 36	Winger,Frank	B		830	M	Ilmenauer SV	GER	1964	16233069	10651767
-</startrangliste>
+| TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
