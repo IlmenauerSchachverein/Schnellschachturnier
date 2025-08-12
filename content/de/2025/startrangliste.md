@@ -36,18 +36,18 @@ Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das S
 20	Han,Erdem		1706	1668	M	SSV Vimaria 91 Weimar	GER	2011	533000646	10842711
 21	Jung,Timo			1639	M	Ilmenauer SV	GER	2005	533029865	10845239
 22	Richter,Frank			1626	M	Ilmenauer SV	GER	1969	16279727	10175929
-23	Volland,Ralf		1795	1595	M	SSV Vimaria 91 Weimar	GER	1953	24640123	10230969
-24	Eisenbach,Markus,Dr.		1888	1530	M	Ilmenauer SV	GER	1984	34663630	10043553
-25	Glaser,Bernhard		1816	1498	M	ESV Lok Sömmerda	GER	1960	24638331	10061931
-26	Huber,Andreas		1737	1467	M	SK Töging	GER	1978	34639306	10090023
-27	Brauer,Celiene		1630	1462	W	Schachclub Turm Erfurt	GER	2009	34663622	10724741
-28	Brandt,Wolfgang		1747	1444	M	TSV 1886 Geschwenda	GER	1960	16202465	10257345
-29	Laß,Matteo		1596	1339	M	1. Eichsfelder Sportclub - Abt.	GER	2015	533019940	10793615
-30	Hadelich,Iason			1265	M	SSV Vimaria 91 Weimar	GER	2012		10839797
-31	Pantleon,Florian		1544	1226	M	SG Bettringen	GER	1999	533016836	10535931
-32	Hadelich,Levin			1209	M	SSV Vimaria 91 Weimar		2010		10856829
-33	Schwarzer,Jonas		1486	1178	M	TSG Apolda	GER	2006	34686223	10829349
-34	Hadelich,Taron			1032	M	SSV Vimaria 91 Weimar	GER	2016		10839799
-35	Winger,Frank	B		830	M	Ilmenauer SV	GER	1964	16233069	10651767
-| TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+23	Kratzsch,Luis Anton	B		1598	M	Erfurter Schachklub	GER	2009	356095438	10830247
+24	Volland,Ralf		1795	1595	M	SSV Vimaria 91 Weimar	GER	1953	24640123	10230969
+25	Eisenbach,Markus,Dr.		1888	1530	M	Ilmenauer SV	GER	1984	34663630	10043553
+26	Glaser,Bernhard		1816	1498	M	ESV Lok Sömmerda	GER	1960	24638331	10061931
+27	Huber,Andreas		1737	1467	M	SK Töging	GER	1978	34639306	10090023
+28	Brauer,Celiene		1630	1462	W	Schachclub Turm Erfurt	GER	2009	34663622	10724741
+29	Brandt,Wolfgang		1747	1444	M	TSV 1886 Geschwenda	GER	1960	16202465	10257345
+30	Laß,Matteo		1596	1339	M	1. Eichsfelder Sportclub - Abt.	GER	2015	533019940	10793615
+31	Hadelich,Iason			1265	M	SSV Vimaria 91 Weimar	GER	2012		10839797
+32	Pantleon,Florian		1544	1226	M	SG Bettringen	GER	1999	533016836	10535931
+33	Hadelich,Levin			1209	M	SSV Vimaria 91 Weimar		2010		10856829
+34	Schwarzer,Jonas		1486	1178	M	TSG Apolda	GER	2006	34686223	10829349
+35	Hadelich,Taron			1032	M	SSV Vimaria 91 Weimar	GER	2016		10839799
+36	Winger,Frank	B		830	M	Ilmenauer SV	GER	1964	16233069	10651767
+</startrangliste>
