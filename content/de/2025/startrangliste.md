@@ -13,44 +13,44 @@ Dieses Jahr wird die DWZ (Deutsche Wertungszahl) als Turnierwertungszahl (TWZ) v
 Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das Startgeld bereits bezahlt.
 {{< /callout >}}
 
-
-| TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| 1 | Biastoch,Bennet | FM | 2311 | 2290 | M | SG Aufbau Elbe Magdeburg | GER | 2002 | 12939889 | 10279476 |
-| 2 | Jacobi,Robin |  | 2243 | 2223 | M | SV Empor Erfurt | GER | 1991 | 24646962 | 10093102 |
-| 3 | Philipp,Mathias | CM | 2144 | 2170 | M | SSV Vimaria 91 Weimar | GER | 1999 | 12958883 | 10269201 |
-| 4 | Demchenko,Yaroslav | CM | 2217 | 2159 | M | SC 1868 Bamberg | UKR | 2007 | 14186667 | 10794860 |
-| 5 | Böhm,Christian |  | 2114 | 2125 | M | Schachgemeinschaft 1871 Löberitz | GER | 1990 | 12922544 | 10019162 |
-| 6 | Aepfler,Christian | FM | 2103 | 2111 | M | SSV Vimaria 91 Weimar | GER | 1972 | 4628306 | 10000948 |
-| 7 | Eichenauer,Pascal |  | 2048 | 2092 | M | Ilmenauer SV | GER | 1999 | 12991848 | 10276112 |
-| 8 | Franke,Luca |  | 2027 | 2053 | M | SV 1861 Liebschwitz | GER | 2005 | 16234774 | 10597539 |
-| 9 | Bock,Marlon |  | 2034 | 2049 | M | SSV Vimaria 91 Weimar | GER | 2007 | 16244931 | 10598565 |
-| 10 | Geißhirt,Marco |  | 1968 | 1990 | M | Ilmenauer SV | GER | 1990 | 4610563 | 10059257 |
-| 11 | Zitzelsberger,Philipp |  | 1994 | 1949 | M | Erfurter Schachklub | GER | 1997 | 12979040 | 10403478 |
-| 12 | Mehlhorn,Uwe |  | 1968 | 1939 | M | SG Blau-Weiß Stadtilm | GER | 1961 | 4619552 | 10139500 |
-| 13 | Stolz,Markus |  | 1835 | 1819 | M | TSG Apolda | GER | 2002 | 12995657 | 10406820 |
-| 14 | Handschuh,Franz |  | 1788 | 1775 | M | Schachverein Stützerbach | GER | 1948 | 34602615 | 10073513 |
-| 15 | Hellrung,Bernhard,Dr. |  | 1923 | 1775 | M | Schachclub Rochade Leinefelde | GER | 1962 | 4692420 | 10079581 |
-| 16 | Trice,Mark |  | 1873 | 1764 | M | Schachklub Schweinfurt 2000 e.V. | GER | 1960 | 12920037 | 10225460 |
-| 17 | Bemmann,Carlo |  | 1730 | 1732 | M | SSV Vimaria 91 Weimar | GER | 2010 | 533010331 | 10786459 |
-| 18 | Rauch,Arwid |  | 1779 | 1704 | M | Ilmenauer SV | GER | 2003 | 16215923 | 10283822 |
-| 19 | Boroshnev,Dmytro |  | 1703 | 1701 | M | Schachclub Turm Erfurt | UKR | 2014 | 34163611 | 10868643 |
-| 20 | Jörges,Frank |  | 1854 | 1677 | M | SK Theaterstadt Meiningen | GER | 1959 | 24669415 | 10095989 |
-| 21 | Han,Erdem |  | 1706 | 1668 | M | SSV Vimaria 91 Weimar | GER | 2011 | 533000646 | 10842711 |
-| 22 | Jung,Timo |  |  | 1639 | M | Ilmenauer SV | GER | 2005 | 533029865 | 10845239 |
-| 23 | Richter,Frank |  |  | 1626 | M | Ilmenauer SV | GER | 1969 | 16279727 | 10175929 |
-| 24 | Kratzsch,Luis Anton | B |  | 1598 | M | Erfurter Schachklub | GER | 2009 | 356095438 | 10830247 |
-| 25 | Volland,Ralf |  | 1795 | 1595 | M | SSV Vimaria 91 Weimar | GER | 1953 | 24640123 | 10230969 |
-| 26 | Eisenbach,Markus,Dr. |  | 1888 | 1530 | M | Ilmenauer SV | GER | 1984 | 34663630 | 10043553 |
-| 27 | Glaser,Bernhard |  | 1816 | 1498 | M | ESV Lok Sömmerda | GER | 1960 | 24638331 | 10061931 |
-| 28 | Huber,Andreas |  | 1737 | 1467 | M | SK Töging | GER | 1978 | 34639306 | 10090023 |
-| 29 | Brauer,Celiene |  | 1630 | 1462 | W | Schachclub Turm Erfurt | GER | 2009 | 34663622 | 10724741 |
-| 30 | Brandt,Wolfgang |  | 1747 | 1444 | M | TSV 1886 Geschwenda | GER | 1960 | 16202465 | 10257345 |
-| 31 | Schmalz,Felix |  |  | 1408 | M | VfB 1919 Vacha |  | 2007 |  | 10838557 |
-| 32 | Laß,Matteo |  | 1596 | 1339 | M | 1. Eichsfelder Sportclub - Abt. | GER | 2015 | 533019940 | 10793615 |
-| 33 | Hadelich,Iason |  |  | 1265 | M | SSV Vimaria 91 Weimar | GER | 2012 |  | 10839797 |
-| 34 | Pantleon,Florian |  | 1544 | 1226 | M | SG Bettringen | GER | 1999 | 533016836 | 10535931 |
-| 35 | Hadelich,Levin |  |  | 1209 | M | SSV Vimaria 91 Weimar |  | 2010 |  | 10856829 |
-| 36 | Schwarzer,Jonas |  | 1486 | 1178 | M | TSG Apolda | GER | 2006 | 34686223 | 10829349 |
-| 37 | Hadelich,Taron |  |  | 1032 | M | SSV Vimaria 91 Weimar | GER | 2016 |  | 10839799 |
-| 38 | Winger,Frank | B |  | 830 | M | Ilmenauer SV | GER | 1964 | 16233069 | 10651767 |
+<startrangliste>
+1	Biastoch,Bennet	FM	2311	2290	M	SG Aufbau Elbe Magdeburg	GER	2002	12939889	10279476
+2	Ziganshin,Ainur		1881	2262	M	Ilmenauer SV	RUS	1998		10776775
+3	Jacobi,Robin		2243	2223	M	SV Empor Erfurt	GER	1991	24646962	10093102
+4	Philipp,Mathias	CM	2144	2170	M	SSV Vimaria 91 Weimar	GER	1999	12958883	10269201
+5	Demchenko,Yaroslav	CM	2217	2159	M	SC 1868 Bamberg	UKR	2007	14186667	10794860
+6	Böhm,Christian		2114	2125	M	Schachgemeinschaft 1871 Löberitz	GER	1990	12922544	10019162
+7	Aepfler,Christian	FM	2103	2111	M	SSV Vimaria 91 Weimar	GER	1972	4628306	10000948
+8	Eichenauer,Pascal		2048	2092	M	Ilmenauer SV	GER	1999	12991848	10276112
+9	Franke,Luca		2027	2053	M	SV 1861 Liebschwitz	GER	2005	16234774	10597539
+10	Bock,Marlon		2034	2049	M	SSV Vimaria 91 Weimar	GER	2007	16244931	10598565
+11	Geißhirt,Marco		1968	1990	M	Ilmenauer SV	GER	1990	4610563	10059257
+12	Zitzelsberger,Philipp		1994	1949	M	Erfurter Schachklub	GER	1997	12979040	10403478
+13	Mehlhorn,Uwe		1968	1939	M	SG Blau-Weiß Stadtilm	GER	1961	4619552	10139500
+14	Stolz,Markus		1835	1819	M	TSG Apolda	GER	2002	12995657	10406820
+15	Handschuh,Franz		1788	1775	M	Schachverein Stützerbach	GER	1948	34602615	10073513
+16	Hellrung,Bernhard,Dr.		1923	1775	M	Schachclub Rochade Leinefelde	GER	1962	4692420	10079581
+17	Trice,Mark		1873	1764	M	Schachklub Schweinfurt 2000 e.V.	GER	1960	12920037	10225460
+18	Bemmann,Carlo		1730	1732	M	SSV Vimaria 91 Weimar	GER	2010	533010331	10786459
+19	Rauch,Arwid		1779	1704	M	Ilmenauer SV	GER	2003	16215923	10283822
+20	Boroshnev,Dmytro		1703	1701	M	Schachclub Turm Erfurt	UKR	2014	34163611	10868643
+21	Jörges,Frank		1854	1677	M	SK Theaterstadt Meiningen	GER	1959	24669415	10095989
+22	Han,Erdem		1706	1668	M	SSV Vimaria 91 Weimar	GER	2011	533000646	10842711
+23	Jung,Timo			1639	M	Ilmenauer SV	GER	2005	533029865	10845239
+24	Richter,Frank			1626	M	Ilmenauer SV	GER	1969	16279727	10175929
+25	Kratzsch,Luis Anton	B		1598	M	Erfurter Schachklub	GER	2009	356095438	10830247
+26	Volland,Ralf		1795	1595	M	SSV Vimaria 91 Weimar	GER	1953	24640123	10230969
+27	Eisenbach,Markus,Dr.		1888	1530	M	Ilmenauer SV	GER	1984	34663630	10043553
+28	Glaser,Bernhard		1816	1498	M	ESV Lok Sömmerda	GER	1960	24638331	10061931
+29	Huber,Andreas		1737	1467	M	SK Töging	GER	1978	34639306	10090023
+30	Brauer,Celiene		1630	1462	W	Schachclub Turm Erfurt	GER	2009	34663622	10724741
+31	Brandt,Wolfgang		1747	1444	M	TSV 1886 Geschwenda	GER	1960	16202465	10257345
+32	Schmalz,Felix			1408	M	VfB 1919 Vacha	GER	2007		10838557
+33	Laß,Matteo		1596	1339	M	1. Eichsfelder Sportclub - Abt.	GER	2015	533019940	10793615
+34	Hadelich,Iason			1265	M	SSV Vimaria 91 Weimar	GER	2012		10839797
+35	Pantleon,Florian		1544	1226	M	SG Bettringen	GER	1999	533016836	10535931
+36	Hadelich,Levin			1209	M	SSV Vimaria 91 Weimar	GER	2010		10856829
+37	Schwarzer,Jonas		1486	1178	M	TSG Apolda	GER	2006	34686223	10829349
+38	Hadelich,Taron			1032	M	SSV Vimaria 91 Weimar	GER	2016		10839799
+39	Winger,Frank	B		830	M	Ilmenauer SV	GER	1964	16233069	10651767
+</startrangliste>
