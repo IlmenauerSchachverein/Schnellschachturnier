@@ -1,13 +1,13 @@
 ---
-title: 30. Schnellschachturnier 2024
+title: 30. Ilmenauer Schnellschachturnier 2024
 toc: false
 ---
 
 ## Wichtige Informationen
 
 {{< cards >}}
-{{< card link="invitation" title="Ausschreibung" icon="user" >}}
-{{< card link="start" title="Startrangliste" icon="user" >}}
+{{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
+{{< card link="startrangliste" title="Startrangliste" icon="user" >}}
 {{< card link="https://chess-results.com/tnr893020.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< /cards >}}
 
