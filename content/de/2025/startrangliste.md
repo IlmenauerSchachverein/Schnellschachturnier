@@ -9,10 +9,6 @@ Dieses Jahr wird die DWZ (Deutsche Wertungszahl) als Turnierwertungszahl (TWZ) v
 {{< /callout >}}
 
 
-{{< callout type="info" >}}
-Für Spieler, bei denen in der Titelspalte ein ‚B‘ vermerkt ist, wurde das Startgeld bereits bezahlt.
-{{< /callout >}}
-
 | TlnNr | Teilnehmer | Titel | ELO | NWZ | Attr. | Verein/Ort | Land | Geburt | FideKenn. | PKZ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 1 | Langheinrich,Ferenc | IM | 2348 | 2362 | M | ESV Nickelhütte Aue | GER | 1983 | 4641973 | 10124364 |
