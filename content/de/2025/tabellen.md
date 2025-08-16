@@ -22,3 +22,26 @@ Dies ist eine Auswahl der verfügbaren Tabellen. Sollten Sie weitere Tabellen be
 {{< card link="/2025/pdf/Spieler.pdf" title="Spielerformular" icon="user" target="_blank" >}}
 {{< card link="/2025/pdf/Startrangliste.pdf" title="Startrangliste" icon="user"  target="_blank" >}}
 {{< /cards >}}
+
+## Runden / Paarungen
+{{< cards >}}
+{{< card link="/2025/pdf/Runde1.pdf" title="Paarunge Runde 1" icon="user" target="_blank">}}
+{{< card link="/2025/pdf/Runde2.pdf" title="Paarunge Runde 2" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde3.pdf" title="Paarunge Runde 3" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde4.pdf" title="Paarunge Runde 4" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde5.pdf" title="Paarunge Runde 5" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde6.pdf" title="Paarunge Runde 6" icon="user"  target="_blank" >}}
+{{< card link="/2025/pdf/Runde7.pdf" title="Paarunge Runde 6" icon="user"  target="_blank" >}}
+{{< /cards >}}
+
+
+## Rangliste nach Runde X
+{{< cards >}}
+{{< card link="/2025/pdf/Rangliste1.pdf" title="Rangliste nach Runde 1" icon="user" target="_blank">}}
+{{< card link="/2025/pdf/Rangliste2.pdf" title="Rangliste nach Runde 2" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Rangliste3.pdf" title="Rangliste nach Runde 3" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Rangliste4.pdf" title="Rangliste nach Runde 4" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Rangliste5.pdf" title="Rangliste nach Runde 5" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Rangliste6.pdf" title="Rangliste nach Runde 6" icon="user"  target="_blank" >}}
+{{< card link="/2025/pdf/Rangliste7.pdf" title="Rangliste nach Runde 7" icon="user"  target="_blank" >}}
+{{< /cards >}}
