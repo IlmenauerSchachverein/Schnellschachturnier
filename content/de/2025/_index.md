@@ -58,6 +58,5 @@ type: docs
 
 {{< cards >}}
 {{< card link="spezial/dwz" title="DWZ Auswertung" icon="user" >}}
-{{< card link="spezial/elo" title="ELO Auswertung" icon="user" >}}
 {{< card link="spezial/fortschrittstabelle" title="Fortschrittstabelle" icon="user" >}}
 {{< /cards >}}
