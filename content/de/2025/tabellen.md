@@ -21,7 +21,9 @@ Dies ist eine Auswahl der verfügbaren Tabellen. Sollten Sie weitere Tabellen be
 {{< card link="/2025/pdf/Rangliste.pdf" title="End Rangliste" icon="user" target="_blank" >}}
 {{< card link="/2025/pdf/Spieler.pdf" title="Spielerformular" icon="user" target="_blank" >}}
 {{< card link="/2025/pdf/Startrangliste.pdf" title="Startrangliste" icon="user"  target="_blank" >}}
+{{< card link="/2025/pdf/Fortschrittstabelle.pdf" title="Fortschrittstabelle" icon="user"  target="_blank" >}}
 {{< /cards >}}
+
 
 ## Runden / Paarungen
 {{< cards >}}
