@@ -26,7 +26,6 @@ type: docs
 {{< cards >}}
 {{< card link="ausschreibung" title="Ausschreibung" icon="user" >}}
 {{< card link="startrangliste" title="Startrangliste" icon="user" >}}
-{{< card link="anmeldung" title="Anmeldung" icon="user" target="_blank">}}
 {{< card link="https://chess-results.com/tnr1056111.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< card link="tabellen" title="Download der Tabellen" icon="user" target="_blank" tag="pdf">}}
 {{< /cards >}}

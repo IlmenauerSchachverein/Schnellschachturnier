@@ -25,10 +25,6 @@ defaultContentLanguage = "de"
 
 [menu]
   [[menu.main]]
-    name = "Anmeldung"
-    pageRef = "/2025/anmeldung"
-    weight = 1
-  [[menu.main]]
     name = "Datenschutzerklärung"
     pageRef = "/datenschutz"
     weight = 3
