@@ -22,9 +22,3 @@ Dies ist eine Auswahl der verfügbaren Tabellen. Sollten Sie weitere Tabellen be
 {{< card link="/2025/pdf/Spieler.pdf" title="Spielerformular" icon="user" target="_blank" >}}
 {{< card link="/2025/pdf/Startrangliste.pdf" title="Startrangliste" icon="user"  target="_blank" >}}
 {{< /cards >}}
-
-## PGN Dateien
-
-{{< cards >}}
-{{< card link="/2025/partien/isst25.pgn" title="PGN Datei ISST" icon="user"  target="_blank" >}}
-{{< /cards >}}
