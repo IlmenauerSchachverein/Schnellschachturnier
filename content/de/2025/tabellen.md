@@ -25,13 +25,13 @@ Dies ist eine Auswahl der verfügbaren Tabellen. Sollten Sie weitere Tabellen be
 
 ## Runden / Paarungen
 {{< cards >}}
-{{< card link="/2025/pdf/Runde1.pdf" title="Paarunge Runde 1" icon="user" target="_blank">}}
-{{< card link="/2025/pdf/Runde2.pdf" title="Paarunge Runde 2" icon="user" target="_blank" >}}
-{{< card link="/2025/pdf/Runde3.pdf" title="Paarunge Runde 3" icon="user" target="_blank" >}}
-{{< card link="/2025/pdf/Runde4.pdf" title="Paarunge Runde 4" icon="user" target="_blank" >}}
-{{< card link="/2025/pdf/Runde5.pdf" title="Paarunge Runde 5" icon="user" target="_blank" >}}
-{{< card link="/2025/pdf/Runde6.pdf" title="Paarunge Runde 6" icon="user"  target="_blank" >}}
-{{< card link="/2025/pdf/Runde7.pdf" title="Paarunge Runde 6" icon="user"  target="_blank" >}}
+{{< card link="/2025/pdf/Runde1.pdf" title="Paarungen Runde 1" icon="user" target="_blank">}}
+{{< card link="/2025/pdf/Runde2.pdf" title="Paarungen Runde 2" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde3.pdf" title="Paarungen Runde 3" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde4.pdf" title="Paarungen Runde 4" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde5.pdf" title="Paarungen Runde 5" icon="user" target="_blank" >}}
+{{< card link="/2025/pdf/Runde6.pdf" title="Paarungen Runde 6" icon="user"  target="_blank" >}}
+{{< card link="/2025/pdf/Runde7.pdf" title="Paarungen Runde 7" icon="user"  target="_blank" >}}
 {{< /cards >}}
 
 
