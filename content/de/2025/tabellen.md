@@ -8,9 +8,6 @@ type: docs
 Dies ist eine Auswahl der verfügbaren Tabellen. Sollten Sie weitere Tabellen benötigen, kontaktieren Sie uns gerne per E-Mail unter [info@ilmenauer-schachverein.de](mailto:info@ilmenauer-schachverein.de).
 {{< /callout >}}
 
-{{< callout type="warning" >}}
-1-2 Tage nach dem Turnier stehen Ihnen hier alle Tabellen im PDF-Format zum Download bereit
-{{< /callout >}}
 
 ## PDF Dateien
 
