@@ -7,7 +7,6 @@ weight: 2
 ---
 
 {{< cards >}}
-{{< card link="../anmeldung" title="Anmeldung" icon="user" target="_blank">}}
 {{< card link="https://chess-results.com/tnr1056111.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< /cards >}}
 
