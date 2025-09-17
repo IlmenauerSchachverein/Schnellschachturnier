@@ -4,6 +4,10 @@ on:
   push:
     branches: [main]
 
+env:
+  SSHSERVER: ${{ secrets.SSHSERVER }}
+  SSHPW: ${{ secrets.SSHPW }}
+
 jobs:
   update:
     name: Update Go/Hugo Modules & Commit
@@ -26,7 +30,6 @@ jobs:
         with:
           hugo-version: "latest"
           extended: true
-
 
       - name: Install Dependencies
         run: |
@@ -76,7 +79,7 @@ jobs:
           path: public/
 
   deploy:
-    name: Deploy via rsync as root
+    name: Deploy via SFTP as webuser
     needs: build
     runs-on: ubuntu-latest
 
@@ -86,14 +89,22 @@ jobs:
           name: public
           path: public
 
-      - name: Install sshpass
-        run: sudo apt-get update && sudo apt-get install -y sshpass rsync
-
-      - name: Deploy via rsync
+      - name: Install lftp
         run: |
-          sshpass -p "${{ secrets.SSHPW }}" ssh -o StrictHostKeyChecking=no root@${{ secrets.SSHSERVER }} "rm -rf /var/www/isst/*"
-          sshpass -p "${{ secrets.SSHPW }}" ssh -o StrictHostKeyChecking=no root@${{ secrets.SSHSERVER }} "mkdir -p /var/www/isst"
-          sshpass -p "${{ secrets.SSHPW }}" rsync -avz --delete -e "ssh -o StrictHostKeyChecking=no" public/ root@${{ secrets.SSHSERVER }}:/var/www/isst/
+          sudo apt-get update
+          sudo apt-get install -y lftp
+
+      - name: Upload with SFTP mirror
+        env:
+          SSHPW: ${{ secrets.SSHPW }}
+          SSHSERVER: ${{ secrets.SSHSERVER }}
+        run: |
+          lftp -u webuser,"$SSHPW" sftp://$SSHSERVER -e "\
+            set sftp:auto-confirm yes; \
+            set net:max-retries 2; \
+            set net:timeout 30; \
+            mirror --reverse --delete --verbose --only-newer --parallel=4 public /isst.ilmenauer-schachverein.de; \
+            bye"
 
   mirror-to-gitlab:
     name: Mirror to GitLab
