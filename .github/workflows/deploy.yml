@@ -8,6 +8,10 @@ env:
   SSHSERVER: ${{ secrets.SSHSERVER }}
   SSHPW: ${{ secrets.SSHPW }}
 
+concurrency:
+  group: schnellschachturnier-deploy
+  cancel-in-progress: true
+
 jobs:
   update:
     name: Update Go/Hugo Modules & Commit
@@ -55,6 +59,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v5
+        with:
+          lfs: true
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
@@ -99,12 +105,14 @@ jobs:
           SSHPW: ${{ secrets.SSHPW }}
           SSHSERVER: ${{ secrets.SSHSERVER }}
         run: |
-          lftp -u webuser,"$SSHPW" sftp://$SSHSERVER -e "\
-            set sftp:auto-confirm yes; \
-            set net:max-retries 2; \
-            set net:timeout 30; \
-            mirror --reverse --delete --verbose --only-newer --parallel=4 public /isst.ilmenauer-schachverein.de; \
-            bye"
+          lftp -u webuser,"$SSHPW" "sftp://$SSHSERVER" -e '
+            set sftp:auto-confirm yes;
+            set net:max-retries 2;
+            set net:timeout 30;
+            mkdir -p /var/www/isst.ilmenauer-schachverein.de;
+            mirror --reverse --delete --verbose --only-newer --parallel=4 public /var/www/isst.ilmenauer-schachverein.de;
+            bye
+          '
 
   mirror-to-gitlab:
     name: Mirror to GitLab
@@ -121,4 +129,4 @@ jobs:
           git config --global user.name "CI Pipeline"
           git config --global user.email "info@ilmenauer-schachverein.de"
           git remote add gitlab "https://oauth2:${{ secrets.GITLAB_PAT }}@gitlab.erik-skopp.de/ilmenauerschachverein/turniere/schnellschachturnier.git"
-          git push --force gitlab main 
+          git push --force gitlab main
