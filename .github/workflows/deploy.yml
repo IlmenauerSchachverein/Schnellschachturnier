@@ -3,10 +3,10 @@ name: Build & Deploy Schnellschachturnier
 on:
   push:
     branches: [main]
+  workflow_dispatch: {}
 
-env:
-  SSHSERVER: ${{ secrets.SSHSERVER }}
-  SSHPW: ${{ secrets.SSHPW }}
+permissions:
+  contents: write  
 
 concurrency:
   group: schnellschachturnier-deploy
@@ -16,13 +16,11 @@ jobs:
   update:
     name: Update Go/Hugo Modules & Commit
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-          lfs: true
 
       - name: Set up Go
         uses: actions/setup-go@v6
@@ -52,15 +50,14 @@ jobs:
           chmod +x ./build.sh
           ./build.sh
           
-  build:
-    name: Build Hugo Site
+  build-deploy:
+    name: Build Hugo & Deploy to GitHub Pages
     needs: update
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v5
         with:
-          lfs: true
+          fetch-depth: 0
 
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
@@ -78,55 +75,10 @@ jobs:
           ./build.sh
           hugo --gc --minify --enableGitInfo
 
-      - name: Upload Public Folder
-        uses: actions/upload-artifact@v4
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          name: public
-          path: public/
-
-  deploy:
-    name: Deploy via SFTP as webuser
-    needs: build
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/download-artifact@v5
-        with:
-          name: public
-          path: public
-
-      - name: Install lftp
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y lftp
-
-      - name: Upload with SFTP mirror
-        env:
-          SSHPW: ${{ secrets.SSHPW }}
-          SSHSERVER: ${{ secrets.SSHSERVER }}
-        run: |
-          lftp -u webuser,"$SSHPW" "sftp://$SSHSERVER" -e '
-            set sftp:auto-confirm yes;
-            set net:max-retries 2;
-            set net:timeout 30;
-            mkdir -p /var/www/isst.ilmenauer-schachverein.de;
-            mirror --reverse --delete --verbose --only-newer --parallel=4 public /var/www/isst.ilmenauer-schachverein.de;
-            bye
-          '
-
-  mirror-to-gitlab:
-    name: Mirror to GitLab
-    needs: deploy
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-
-      - name: Push to GitLab
-        run: |
-          git config --global user.name "CI Pipeline"
-          git config --global user.email "info@ilmenauer-schachverein.de"
-          git remote add gitlab "https://oauth2:${{ secrets.GITLAB_PAT }}@gitlab.erik-skopp.de/ilmenauerschachverein/turniere/schnellschachturnier.git"
-          git push --force gitlab main
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./public
+          cname: isst.ilmenauer-schachverein.de
