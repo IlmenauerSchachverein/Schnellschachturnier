@@ -1,8 +1,11 @@
 ---
 title: Anmeldung
-toc: false
 type: docs
+toc: false
 ---
 
+{{< callout type="info" >}}    
+Falls Sie keine ELO-Zahl besitzen, geben Sie bitte den Wert 0 in das entsprechende Feld ein. Falls Sie keine DWZ besitzen, tragen Sie ebenfalls den Wert 0 ein.
+{{< /callout >}}
 
-Akutell kann sich noch nicht angemeldet werden. Bitte haben Sie noch etwas Gedult.
+<iframe src="https://register.ilmenauer-schachverein.de/isst" width="100%" height="1200px" style="border: none;"></iframe>

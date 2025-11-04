@@ -3,6 +3,11 @@ title: Bilder
 type: docs
 weight: 2
 ---
+{{< callout type="info" >}}
+Da die Bilder in Originalqualität vorliegen, lädt die Website langsamer und kann ruckeln.
+{{< /callout >}}
+
+
 
 {{< load-photoswipe >}}
 
