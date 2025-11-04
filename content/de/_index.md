@@ -30,10 +30,13 @@ type: docs
  Die Turniere <a href="2025"> 2024 </a> und <a href="2024"> 2024 </a> wurden in das Archiv verschoben.
 {{< /callout >}}
 
+<div style="color: red"><h2><a href="/2026/anmeldung">Hier geht es zur Anmeldung für 2026</a><h2></div>
+
 ### Wichtige Informationen
 
 {{< cards >}}
 {{< card link="/2026/ausschreibung" title="Ausschreibung" icon="user" >}}
+{{< card link="/2026/anmeldung" title="Anmeldung" icon="user" >}}
 {{< card link="/2026/startrangliste" title="Startrangliste" icon="user" >}}
 {{< card link="https://chess-results.com/tnr1056111.aspx?lan=0" title="Chess-Results" icon="user" target="_blank">}}
 {{< card link="/2026/tabellen" title="Download der Tabellen" icon="user" target="_blank" tag="pdf">}}
