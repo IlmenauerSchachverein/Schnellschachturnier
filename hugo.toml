@@ -27,12 +27,8 @@ googleAnalytics = "G-SJLN5FB1QW"
 
 [menu]
   [[menu.main]]
-    name = "Datenschutzerklärung"
-    pageRef = "/datenschutz"
-    weight = 3
-  [[menu.main]]
-    name = "Impressum"
-    pageRef = "/impressum"
+    name = "Anmeldung"
+    pageRef = "/2026/anmeldung/"
     weight = 3
   [[menu.main]]
     name = "Ilmenauer Schachverein ↗"
