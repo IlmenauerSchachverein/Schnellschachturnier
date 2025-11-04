@@ -22,7 +22,7 @@ googleAnalytics = "G-SJLN5FB1QW"
   [languages.de]
     languageName = "German"
     weight = 1
-    title = "31. Ilmenauer Schnellschachturnier 2025"
+    title = "32. Ilmenauer Schnellschachturnier 2026"
     contentDir = "content/de"
 
 [menu]
@@ -57,7 +57,7 @@ googleAnalytics = "G-SJLN5FB1QW"
       icon = "instagram"
   [[menu.main]]
     name = "Chess-Results"
-    url = "https://chess-results.com/tnr1056111.aspx?lan=0"
+    url = "https://s2.chess-results.com/tnr1287740.aspx?lan=0&SNode=S0"
     weight = 2
 
 [params]
