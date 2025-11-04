@@ -3,7 +3,7 @@ title: 31. Ilmenauer Schnellschachturnier 2026
 toc: false
 type: docs
 ---
-
+<br>
 <style>
   @media (max-width: 600px) {
     .desktop-only {
@@ -20,7 +20,7 @@ type: docs
     <img src="/IlmenauerSV.png" alt="Ilmenauer Schachverein Logo" style="max-width: 200px;" class="desktop-only">
   </div>
 </div>
-
+<br>
 ### Wichtige Informationen
 
 {{< cards >}}
