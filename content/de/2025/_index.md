@@ -23,6 +23,7 @@ type: docs
   </div>
 </div>
 <br>
+
 ### Wichtige Informationen
 
 {{< cards >}}
