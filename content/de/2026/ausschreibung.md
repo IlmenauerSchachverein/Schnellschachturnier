@@ -58,5 +58,5 @@ Das Turnier wird weder nach ELO noch nach DWZ ausgewertet.
 ## Startgeld
 
 - 13 € Startgeld
-- 8 € ermäßigt für Schüler, Studenten, Rentner
+- 7 € ermäßigt für Schüler, Studenten, Rentner
 - Quittung möglich. Bitte bei Anmeldung sagen
