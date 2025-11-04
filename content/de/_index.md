@@ -12,14 +12,14 @@ type: docs
     <img src="/IlmenauerSV.png" alt="Ilmenauer Schachverein Logo" style="max-width: 200px;" class="desktop-only">
   </div>
 </div>
-
+<br>
+<div style="color: red"><h2><a href="/2026/anmeldung">Hier geht es zur Anmeldung für 2026</a><h2></div>
 
 
 {{< callout type="info" >}}
  Die Turniere <a href="2025"> 2025 </a> und <a href="2024"> 2024 </a> wurden in das Archiv verschoben.
 {{< /callout >}}
 
-<h2><a href="/2026/anmeldung">Hier geht es zur Anmeldung für 2026</a><h2>
 
 ### Wichtige Informationen
 

@@ -21,7 +21,7 @@ type: docs
   </div>
 </div>
 <br>
-<div style="color: red"><h2><a href="/2026/anmeldung">Hier geht es zur Anmeldung für 2026</a><h2></div>
+<div style="color: red"><h2><a href="anmeldung">Hier geht es zur Anmeldung für 2026</a><h2></div>
 
 ### Wichtige Informationen
 
