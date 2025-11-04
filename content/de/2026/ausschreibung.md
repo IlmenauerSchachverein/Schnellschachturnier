@@ -8,6 +8,7 @@ weight: 2
 
 {{< cards >}}
 {{< card link="https://s1.chess-results.com/tnr1287740.aspx?lan=0&SNode=S0" title="Chess-Results" icon="user" target="_blank">}}
+{{< card link="/2026/pdf/ISST2026.pdf" title="Ausschreibung als PDF" icon="user" target="_blank">}}
 {{< /cards >}}
 
 

@@ -19,8 +19,9 @@ type: docs
     <p>Herzlich willkommen zum 32. Ilmenauer Schnellschachturnier 2026! Wir freuen uns, Sie bei diesem besonderen Turnier begrüßen zu dürfen. Hier finden Sie alle wichtigen Informationen, von den Spielzeiten bis zu den Teilnehmerdetails. Bei Fragen oder Anliegen steht Ihnen unser Organisationsteam gerne zur Verfügung. Wir wünschen Ihnen spannende Partien und eine angenehme Zeit voller Schachbegeisterung. Viel Spaß beim 32. Ilmenauer Schnellschachturnier 2026!</p>
   </div>
   <div style="flex-shrink: 0;">
-    {{< imgrel src="IlmenauerSV.png" alt="Ilmenauer Schachverein Logo" class="desktop-only" style="max-width: 200px;" >}}
+    <img src="/IlmenauerSV.png" alt="Ilmenauer Schachverein Logo" style="max-width: 200px;" class="desktop-only">
   </div>
+</div>
 
 </div>
 
