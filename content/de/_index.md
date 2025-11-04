@@ -25,6 +25,11 @@ type: docs
   -->
 </div>
 
+
+{{< callout type="info" >}}
+ Die Turniere <a href="2025"> 2024 </a> und <a href="2024"> 2024 </a> wurden in das Archiv verschoben.
+{{< /callout >}}
+
 ### Wichtige Informationen
 
 {{< cards >}}
