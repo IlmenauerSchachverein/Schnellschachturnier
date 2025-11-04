@@ -1,5 +1,5 @@
 ---
-title: 31. Ilmenauer Schnellschachturnier 2026
+title: 32. Ilmenauer Schnellschachturnier 2026
 toc: false
 type: docs
 ---
