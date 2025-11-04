@@ -4,16 +4,6 @@ toc: false
 type: docs
 ---
 
-<!--
-<style>
-  @media (max-width: 600px) {
-    .desktop-only {
-      display: none;
-    }
-  }
-</style>
--->
-<br><br>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <p>Herzlich willkommen zum 32. Ilmenauer Schnellschachturnier 2026! Wir freuen uns, Sie bei diesem besonderen Turnier begrüßen zu dürfen. Hier finden Sie alle wichtigen Informationen, von den Spielzeiten bis zu den Teilnehmerdetails. Bei Fragen oder Anliegen steht Ihnen unser Organisationsteam gerne zur Verfügung. Wir wünschen Ihnen spannende Partien und eine angenehme Zeit voller Schachbegeisterung. Viel Spaß beim 32. Ilmenauer Schnellschachturnier 2026!</p>
