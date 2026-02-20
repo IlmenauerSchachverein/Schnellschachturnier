@@ -1,4 +1,4 @@
-name: Build & Deploy Schnellschachturnier
+name: Build and Deploy Schnellschachturnier
 
 on:
   push:
